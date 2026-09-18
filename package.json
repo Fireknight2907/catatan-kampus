@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "serve": "vite",
+    "ionic:serve": "vite",
+    "ionic:build": "vite build",
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
     "test:e2e": "cypress run",
