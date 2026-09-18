@@ -1,10 +1,11 @@
 {
-  "name": "ionic-app-base",
+  "name": "catatan-kampus",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "serve": "vite",
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
     "test:e2e": "cypress run",
