@@ -1,5 +1,7 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {},
-  "type": "vue-vite"
+  "name": "catatan-kampus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
 }
